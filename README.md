@@ -36,8 +36,8 @@
 
 ### 🛠️ Projects
 - **Self-Driving Car Perception System**: Enhanced object recognition accuracy by integrating TensorFlow with image detection cameras, achieving a 55% improvement in recognition.
-- **Lane-Changing Algorithm for Autonomous Vehicles**: Developed a lane-changing algorithm using lane detection, GPS, and real-time data processing with Jetson Nano, achieving 90% accuracy.
 - **AI-Powered Health Dashboard**: Built a personal health dashboard with Java Spring Boot, incorporating machine learning for personalized health insights.
+- **Multi dimensional glyphs using Geospatial Visualization**:  Developed a comprehensive portal to analyze the impact of COVID-19 by considering geographical case data, resulting in a 30% increase in data accessibility and user engagement.
 
 ### 🔍 GitHub Stats
 ![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaurya-wahal&show_icons=true&theme=radical)
